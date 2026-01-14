@@ -21,6 +21,14 @@ The app contains **highly sensitive information**, and users must sign in or reg
 
 ---
 
+## 📸 Screenshots
+
+![Screenshot 1](image1)
+
+![Screenshot 2](image2)
+
+---
+
 ## 🚀 Features
 
 - **User Authentication**
@@ -40,7 +48,7 @@ The app contains **highly sensitive information**, and users must sign in or reg
 
 - **User-Specific Profile**
 
-  - “My Profile” view displays data unique to the logged-in user
+  - "My Profile" view displays data unique to the logged-in user
 
 - **Authenticated Navigation**
   - Navigation bar visible only when logged in
@@ -120,10 +128,13 @@ Clone the repository, install dependencies, and start the development server:
 ```bash
 npm install
 npm run dev
+```
+
 The app will run locally (typically at http://localhost:3000).
 The starting code is located in the main branch, while lesson solution code lives in separate branches for each chapter.
 
-🧠 What This Project Demonstrates
+## 🧠 What This Project Demonstrates
+
 Front-end authentication patterns
 
 Route protection with React Router
@@ -134,10 +145,11 @@ Real-world redirect flows
 
 Clean separation of public and private views
 
-📎 Notes
+## 📎 Notes
+
 This project is part of TripleTen — Sprint 14: Front-End Authentication, Chapter 2 of 7.
 It serves as a guided implementation of authentication concepts commonly used in modern React applications.
 
-✅ Status
+## ✅ Status
+
 Completed — Authentication flow and protected routing implemented.
-```
