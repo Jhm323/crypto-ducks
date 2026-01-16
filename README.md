@@ -1,17 +1,16 @@
 # CryptoDucks 🦆
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Jhm323/CryptoDucks?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/Jhm323/CryptoDucks?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/Jhm323/CryptoDucks?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Jhm323/CryptoDucks?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/Jhm323/CryptoDucks?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/Jhm323/CryptoDucks?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/Jhm323/CryptoDucks?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Jhm323/CryptoDucks?style=for-the-badge)
+![Pull requests](https://img.shields.io/github/issues-pr/Jhm323/CryptoDucks?style=for-the-badge)
+![License](https://img.shields.io/github/license/Jhm323/CryptoDucks?style=for-the-badge)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000000?style=flat-square&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Sprint 14: Front-End Authentication with React**
 
