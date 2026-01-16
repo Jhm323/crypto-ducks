@@ -1,11 +1,5 @@
 # CryptoDucks 🦆
 
-![Repo size](https://img.shields.io/github/repo-size/Jhm323/CryptoDucks?style=for-the-badge)
-![Last commit](https://img.shields.io/github/last-commit/Jhm323/CryptoDucks?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Jhm323/CryptoDucks?style=for-the-badge)
-![Pull requests](https://img.shields.io/github/issues-pr/Jhm323/CryptoDucks?style=for-the-badge)
-![License](https://img.shields.io/github/license/Jhm323/CryptoDucks?style=for-the-badge)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
